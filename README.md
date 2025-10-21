@@ -14,8 +14,6 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi sekä lähiopetus ovat tuntuneet: Kurssi on ollut minulle hieman haastavampi kuin Python kurssi, mutta olen selvinnyt hyvin. Lähiopetuksessa on mukava käydä, sillä pystyn pyytämään apua joko opettajalta taikka sitten muilta luokkalaisilta.
-Oppimistani tukisi jos: -----
-
 
 ## Sisällysluettelo:
 
