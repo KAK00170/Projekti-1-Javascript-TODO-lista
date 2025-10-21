@@ -5,20 +5,16 @@ TODO-lista - Kaapo Kivimäki
 Pääset julkaistuun sovellukseen käsiksi osoitteessa https://kaapotodolista.netlify.app/
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
-## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
-
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Mielestäni onnistuin tehtävässä hyvin.
+Parantamista olisi vielä Javascriptin kanssa, sillä minun tekeminen on hieman "tönkköä".
+Sovelluksesta jäi puuttumaan monet lisätoiminnot.
+Koen, että olen oppinut lisäämään toimintoja nettisivuille käyttäen Javascriptiä.
+Antaisin itselleni pisteitä seuraavasti: 9/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kurssi sekä lähiopetus ovat tuntuneet: Kurssi on ollut minulle hieman haastavampi kuin Python kurssi, mutta olen selvinnyt hyvin. Lähiopetuksessa on mukava käydä, sillä pystyn pyytämään apua joko opettajalta taikka sitten muilta luokkalaisilta.
+Oppimistani tukisi jos: -----
 
 
 ## Sisällysluettelo:
@@ -33,10 +29,10 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+TODO-lista on sovellus, jolla käyttäjä pystyy tallentamaan asioita muistiin, merkata ne tehdyiksi ja poistamaan ne muistista.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
