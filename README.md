@@ -38,8 +38,7 @@ TODO-lista on sovellus, jolla käyttäjä pystyy tallentamaan asioita muistiin, 
 <img width="995" height="784" alt="projekti kuva" src="https://github.com/user-attachments/assets/e70f42d1-a3fe-4dce-8a77-67e1bf8e4760" />
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
