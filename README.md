@@ -3,7 +3,7 @@ TODO-lista - Kaapo Kivimäki
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa https://kaapotodolista.netlify.app/
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Linkki projektin videoesittelyyn  [Youtube](https://youtu.be/u2lufWQi31Y)
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 - Mielestäni onnistuin tehtävässä hyvin.
