@@ -40,6 +40,7 @@ Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 
 ## Asennus
 - Avaa nettisivu linkistä tai vaihtoehtoisesti lataa tiedostot koneellesi
+- Jos latasit tiedostot avaa sivu index.html tiedostolla
 - Seuraa nettisivun antamia ohjeita
 
 ## Kiitokset
