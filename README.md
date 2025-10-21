@@ -49,6 +49,5 @@ Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+(https://github.com/KAK00170/Projekti-1-Javascript-TODO-lista/blob/main/LICENSE)
 
