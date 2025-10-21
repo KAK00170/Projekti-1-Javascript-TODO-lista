@@ -44,9 +44,8 @@ Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 - Seuraa nettisivun antamia ohjeita
 
 ## Kiitokset
-Katsoin youtube-videosta mallia, että miten tekisin javascript tiedostoni
-https://youtu.be/G0jO8kUrg-I?si=0_-CkSb9RuJqE6L4 
-Käytin ChatGPT:tä troubleshoottaamisessa
+- Katsoin youtube-videosta mallia, että miten tekisin javascript tiedostoni https://youtu.be/G0jO8kUrg-I?si=0_-CkSb9RuJqE6L4 
+- Käytin ChatGPT:tä troubleshoottaamisessa
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
