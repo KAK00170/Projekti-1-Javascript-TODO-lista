@@ -56,7 +56,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 - ...
 
 ## Kiitokset
-Katsoin alla olevasta youtube videosta mallia, että miten tekisin javascript tiedostoni
+Katsoin youtube-videosta mallia, että miten tekisin javascript tiedostoni
 https://youtu.be/G0jO8kUrg-I?si=0_-CkSb9RuJqE6L4 
 Käytin ChatGPT:tä troubleshoottaamisessa
 ## Lisenssi
