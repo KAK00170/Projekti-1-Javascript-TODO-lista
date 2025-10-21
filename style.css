@@ -33,6 +33,8 @@ ul li {
     cursor: pointer;
     background-color: rgb(2, 82, 109);
     color: white;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 span {
     margin-left: 10px;
@@ -54,5 +56,5 @@ span {
     width: auto;
     max-width: 90%;
     word-wrap: break-word;
-
 }
+
