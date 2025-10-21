@@ -6,11 +6,11 @@ Pääset julkaistuun sovellukseen käsiksi osoitteessa https://kaapotodolista.ne
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin tehtävässä hyvin.
-Parantamista olisi vielä Javascriptin kanssa, sillä minun tekeminen on hieman "tönkköä".
-Sovelluksesta jäi puuttumaan monet lisätoiminnot.
-Koen, että olen oppinut lisäämään toimintoja nettisivuille käyttäen Javascriptiä.
-Antaisin itselleni pisteitä seuraavasti: 9/10 p
+- Mielestäni onnistuin tehtävässä hyvin.
+- Parantamista olisi vielä Javascriptin kanssa, sillä minun tekeminen on hieman "tönkköä".
+- Sovelluksesta jäi puuttumaan monet lisätoiminnot.
+- Koen, että olen oppinut lisäämään toimintoja nettisivuille käyttäen Javascriptiä.
+- Antaisin itselleni pisteitä seuraavasti: 9/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi sekä lähiopetus ovat tuntuneet: Kurssi on ollut minulle hieman haastavampi kuin Python kurssi, mutta olen selvinnyt hyvin. Lähiopetuksessa on mukava käydä, sillä pystyn pyytämään apua joko opettajalta taikka sitten muilta luokkalaisilta.
