@@ -35,10 +35,7 @@ TODO-lista on sovellus, jolla käyttäjä pystyy tallentamaan asioita muistiin, 
 
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+<img width="995" height="784" alt="projekti kuva" src="https://github.com/user-attachments/assets/e70f42d1-a3fe-4dce-8a77-67e1bf8e4760" />
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
